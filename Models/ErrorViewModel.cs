@@ -8,4 +8,5 @@ namespace WebApplication.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
+  
 }
